@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 BookScraperGUI
 
 A simple Java GUI application that scrapes book titles, prices, and availability from [books.toscrape.com](https://books.toscrape.com) using the **Jsoup** library.
@@ -50,3 +51,7 @@ E.g., `jsoup-1.16.1.jar`
 ```bash
 javac -cp ".;jsoup-1.16.1.jar" src/BookScraperGUI.java
 java -cp ".;jsoup-1.16.1.jar;src" BookScraperGUI
+=======
+# SCT_SD_4
+📘 BookScraperGUI A simple Java GUI application that scrapes book titles, prices, and availability from books.toscrape.com using the Jsoup library.
+>>>>>>> 7ffec2d8a4d6e7c85b8b2f506924aa8479f87757
